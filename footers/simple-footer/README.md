@@ -1,0 +1,1 @@
+Ez egy egyeru, nyers header es footer, amit tobb weboldalon is lehet hasznalni.
